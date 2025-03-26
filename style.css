@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    margin: 0;
+background: linear-gradient(180deg, #BC2043 0%, #681225 64.5%, #560F1F 100%);
+
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 400px;
+}
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.logika {
+    
+    text-align: center;
+background-color: gray;
+padding: 10px 20px 10px 20px;
+border-radius: 10px;
+color:white;
+}
+
+.imgg {
+    display: flex;
+    justify-content: space-around;
+width: 470px;
+}
+
+.downland{
+     text-align: center;  
+     width: 1400px;  
+}
+
+h1 {
+text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+.footer{
+    text-align: center;
+}
+.button {
+    color: white;
+        text-align: center;
+background-color: gray;
+padding: 10px 20px 10px 20px;
+border-radius: 10px;
+}
+.logika2{
+text-align: center;
+}
